@@ -1,4 +1,4 @@
-use "/Users/simranpalak/Desktop/EC481 Data/Replication_package_Economic_consequences_sleep/Replication_package_Economic_consequences_sleep/Datasets/firststage_dataset.dta", clear
+use "firststage_dataset.dta", clear
 
 
 cap drop sleep_all
